@@ -9,5 +9,5 @@ fruits[1] = "ananas"
 #Affichez la longueur de la liste  fruits  .
 print(len(fruits))
 #Triez la liste  fruits  par ordre alphabétique et affichez-la.
-fruits.sort
+fruits.sort()
 print(fruits)
